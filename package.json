@@ -1,7 +1,7 @@
 {
   "name": "projekt-gemeinschafts-kalender",
   "version": "1.0.0",
-  "description": "Gemeinschaftskalender Anwendung",
+  "description": "Community Calendar Application",
   "main": "index.js",
   "scripts": {
     "start": "node server/index.js",
